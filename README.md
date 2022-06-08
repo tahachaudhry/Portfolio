@@ -1,7 +1,7 @@
 # Portfolio
 ## Links
-[GitHub Repository:](https://github.com/tahachaudhry/Portfolio)
-[Webpage:](https://tahachaudhry.github.io/Portfolio/)
+[GitHub Repository](https://github.com/tahachaudhry/Portfolio)</br>
+[Webpage](https://tahachaudhry.github.io/Portfolio/)
 ## User Story
 AS AN employer</br>
 I WANT to view a potential employee's deployed portfolio of work samples</br>
